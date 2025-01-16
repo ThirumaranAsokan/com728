@@ -1,2 +1,3 @@
-# com728
-Programming for problem solving
+# My Learning
+Programming for problem solving in python 
+Useful any time.
